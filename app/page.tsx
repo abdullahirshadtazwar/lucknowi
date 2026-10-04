@@ -20,7 +20,7 @@ export default function App() {
         </button>
       </div>
       <button className="text-[#e2d9c9] bg-[#531015] hover:bg-[#cc454e] hover:text-[#f8f2e9] font-medium rounded-md px-4 py-2 text-sm ">
-        Plan a Visit
+        Plan your Visit
       <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-white transition-all duration-[400ms] group-hover:w-full rounded-full" />
       </button>
     </div>
